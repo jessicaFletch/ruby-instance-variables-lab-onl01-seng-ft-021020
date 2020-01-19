@@ -7,3 +7,8 @@ class radio_button_tag
     this_dogs_name
   end
 end
+
+lassie = Dog.new
+lassie.name = "Lassie"
+ 
+lassie.name 
